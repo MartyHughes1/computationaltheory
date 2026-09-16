@@ -1,0 +1,4 @@
+# Numerical arrays, for 32-bit unsigned integer arithmetic.
+numpy
+# Jupyter notebook, to run problems.ipynb.
+notebook
